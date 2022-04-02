@@ -27,4 +27,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Jack-JS"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jack-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Jack-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/matlab-original.svg">  
 </div>
